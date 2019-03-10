@@ -12,11 +12,11 @@ setuptools.setup(
     description="A package to allow for more print functinality.",
     long_description=long_description,
     lomg_description_content_type="text/markdown",
-    url="https://mygithub", #Add my Gihub later
+    url="https://github.com/WorkingCupid549/Typewrite", #Add my Gihub later
     packages=setuptools.find_packages(),
     classifiers=[
-        "Programming Language :: Python :: 3", 
+        "Programming Language :: Python :: 3.7", 
         "License :: ISC License",
-        "Operating System:: OS Indepentent"m
+        "Operating System:: OS Indepentent"
     ],
 )
