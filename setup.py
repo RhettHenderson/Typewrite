@@ -6,10 +6,10 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="Typewrite",
-    version="1.0.0",
+    version="1.0.1",
     author="Rhett Henderson",
     author_email="rhett.henderson@outlook.com",
-    description="A package to allow for more print functinality.",
+    description="A package to allow for more print functionality.",
     long_description=long_description,
     lomg_description_content_type="text/markdown",
     url="https://github.com/WorkingCupid549/Typewrite", #Add my Gihub later
