@@ -1,6 +1,6 @@
 Typewrite comes with two functions. The first is slowPrint(). It prints the given message one character at a time and its parameters are msg, and delay. Msg is what will be printed, delay is the delay between every character. Delay is optional, and by default will be set to 0.2 seconds.
 
-The second function is special. It simply adds variables to your project so you can more easily print Unicode character without having to google the unicode. Every single unicode symbol that is not displayed on akey on your keyboard, and is listed on https://www.rapidtables.com/ has been added, including inverted exclamation marks, copyright signs, and accented letters. The full list of variable names and unicodes can be seen below.
+The second function is special. It simply adds variables to your project so you can more easily print Unicode character without having to google the unicode. Every single unicode symbol that is not displayed on a key on your keyboard, and is listed on https://www.rapidtables.com/ has been added, including inverted exclamation marks, copyright signs, and accented letters. The full list of variable names and unicodes can be seen below.
 
 If you want to import only one of the functions, or only one of the variables from special, you can do so with:
 from typewrite.special import <variable name>, <variable name>
